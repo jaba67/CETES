@@ -77,6 +77,7 @@ Con el siguiente código puede cargar las funciones para llevar a cabo los ejerc
 Con el siguiente código , puede usted cargar las funciones relaticas a los cálculos de interés simple: 
 ```{r}
 source("file:///home/alumno/Descargas/CETES.R")
+```
 
 A continuación se dan ejemplos del uso de las formulas correspondientes: 
 
@@ -87,7 +88,7 @@ Para este caso se tienen los siguientes datos:
 $VA$=$10,000.00
 $r$= 10.38% anual
 $t$= 1 año
-```
+
 
 Se realizan los cálculos
 
@@ -100,7 +101,7 @@ nPeriodos=1
 valorFuturo=valorFinalSimple(VA=valorActual,r=tasaPeriodo,t=nPeriodos)
 #Imprimir el resultado:
 valorFuturo
-
+```
 
 # b) Invertir $10,000.00 a un plazo de 3 meses con interés del 10.47%
 Para este caso se tienen los siguientes datos: 
@@ -108,7 +109,7 @@ Para este caso se tienen los siguientes datos:
 $VA$=$10,000.00
 $r$= 10.47% anual
 $t$= 3 meses
-```
+
 
 Se realizan los cálculos
 
