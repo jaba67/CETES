@@ -76,7 +76,7 @@ Con el siguiente código puede cargar las funciones para llevar a cabo los ejerc
 
 Con el siguiente código , puede usted cargar las funciones relaticas a los cálculos de interés simple: 
 ```{r}
-source("file:///home/alumno/Descargas/CETES.R")
+source("https://raw.githubusercontent.com/jaba67/CETES/refs/heads/main/CETES.R")
 ```
 
 A continuación se dan ejemplos del uso de las formulas correspondientes: 
