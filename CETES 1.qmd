@@ -1,0 +1,17 @@
+---
+title: "CETES 1"
+format: html
+editor: visual
+Autor: Jesus Bravo
+---
+
+#Ejemplo del uso de mis formulas
+
+En este ejemplo cargo mi link para la información de CETES de [Github](https://github.com/jaba67/CETES)
+
+Se cargan de manera remota:
+
+```{r}
+source("https://raw.githubusercontent.com/jaba67/CETES/refs/heads/main/README.md") 
+```
+
