@@ -2,7 +2,7 @@
 En esta página explicamos sobre las CETES y un ejemplo práctico con interés simple 
 # CETES
 ## ¿Qué son las cetes? 
-
+ 
 Su nombre completo son Certificados de la Tesorería de la Federación, se trata de instrumentos de inversión que emite el gobierno mexicano. Básicamente al comprarlos están prestando dinero al gobienro y cambio esto te devuelve el monto invertido más un interés al final de periodo
 
 ## ¿Cómo se subastan? 
